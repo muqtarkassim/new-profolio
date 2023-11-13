@@ -284,20 +284,28 @@ hr{
     }
     .explain p{
         font-size: medium;
-        font-family: sans-serif;
+        font-family: 'Times New Roman', Times, serif;
         font-weight: 500;
         padding-left: 40px;
         text-align: center;
     }
     .services-divs div{
         width: 100%;
+height: auto;
+    }
+    .services-divs div p{
+        font-size: 15px;
     }
     body{
         font-size: medium;
     }
     .services{
         font-size: medium;
-        padding: 15px;
+        padding: 20px;
+        line-height: 30px;
+    }
+    .services h3,p {
+        font-size: 15px
     }
     .services h1{
         font-size: medium;
