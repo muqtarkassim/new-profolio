@@ -292,4 +292,14 @@ hr{
     .services-divs div{
         width: 100%;
     }
+    body{
+        font-size: medium;
+    }
+    .services{
+        font-size: medium;
+        padding: 15px;
+    }
+    .services h1{
+        font-size: medium;
+    }
 }
